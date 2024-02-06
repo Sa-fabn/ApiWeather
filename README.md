@@ -28,7 +28,3 @@ use lang = fr to set response in french
  
 [lien vers l'api](https://www.weatherapi.com/)
  
-
-![capture ecran postman][def]
-
-[def]: screenshot.png
